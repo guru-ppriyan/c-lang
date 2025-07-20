@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 #include<pthread.h>
 
 // Function to be executed by the thread
@@ -23,5 +23,4 @@ int main() {
     printf("Thread has finished execution\n");
 
     return 0;
-}
-
+} */

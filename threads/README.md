@@ -38,3 +38,7 @@ Always compile with -pthread for POSIX thread support.
 
 Use mutexes or semaphores to handle race conditions when accessing shared variables.
 #include <pthread.h>
+
+Use Windows Native Threads (WinAPI)
+Replace pthread.h with Windows threads using <windows.h>:
+No pthread.h needed here. Use this for native Windows development.
