@@ -5,11 +5,12 @@ int myNum () {
 }
 
 int main() {
-    int x=12;
+    int x=12 ;
     int y=5;
     int product = x*y ;
-    int answer= myNum ;
+    int answer= myNum() ;
     printf ("%d" , product) ; 
-    return x/y ;
+    printf("%d\n" , answer) ;
+    return 0 ;
 
 }
