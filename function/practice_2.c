@@ -9,7 +9,7 @@ int main() {
     int y=5;
     int product = x*y ;
     int answer= myNum() ;
-    printf ("%d" , product) ; 
+    printf ("%d\n" , product) ; 
     printf("%d\n" , answer) ;
     return 0 ;
 

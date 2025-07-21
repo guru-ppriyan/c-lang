@@ -34,7 +34,4 @@ struct Student {
 struct	Keyword for structure
 Group variables	Of different types under one name
 Use cases	Student, Product, Employee data, etc
-Access fields	. or -> (with pointer)*/
-
-
-
+Access fields	. or -> (with pointers)*/
