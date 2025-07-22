@@ -14,6 +14,7 @@ int main() {
     struct student s4 = {703,"Guru4",4,"XII"};
 
     printf("ID: %d\n", s1.id);
+    
     printf("Name: %s\n", s1.name);    
     return 0;
 
