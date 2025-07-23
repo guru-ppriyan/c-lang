@@ -1,4 +1,4 @@
-/*#include<stdio.h>
+#include<stdio.h>
 #include<pthread.h>
 
 // Function to be executed by the thread
